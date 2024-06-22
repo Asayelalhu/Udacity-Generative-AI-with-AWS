@@ -1,1 +1,0 @@
-# Udacity-Generative-AI-with-AWS
